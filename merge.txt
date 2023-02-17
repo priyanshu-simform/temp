@@ -1,0 +1,4 @@
+This file is temporary created for merge conflict
+
+the code is :
+hashmap
