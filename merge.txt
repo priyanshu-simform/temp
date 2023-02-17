@@ -1,4 +1,8 @@
 This file is temporary created for merge conflict
 
 the code is :
+<<<<<<< HEAD
 hashmap 2
+=======
+new hashmap
+>>>>>>> other2
