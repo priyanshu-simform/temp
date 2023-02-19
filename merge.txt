@@ -2,4 +2,4 @@ This file is temporary created for merge conflict
 
 the code is :
 hashmap 32
-
+The conflict is solved
